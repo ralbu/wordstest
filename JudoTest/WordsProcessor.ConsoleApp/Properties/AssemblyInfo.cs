@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("WordProcessor.Console")]
+[assembly: AssemblyTitle("WordsProcessor.ConsoleApp")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("WordProcessor.Console")]
+[assembly: AssemblyProduct("WordsProcessor.ConsoleApp")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("9d570084-3dcd-45e4-b992-155308023473")]
+[assembly: Guid("2606304d-3b2a-44a2-980e-573369222781")]
 
 // Version information for an assembly consists of the following four values:
 //

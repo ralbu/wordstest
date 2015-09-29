@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordsProcessor", "WordsProc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordsProcessor.Tests", "WordsProcessor.Tests\WordsProcessor.Tests.csproj", "{1A6B1A87-6A82-4414-98EF-45D6BB0F4F26}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordProcessor.Console", "WordProcessor.Console\WordProcessor.Console.csproj", "{7329486B-9CA0-408C-9D46-4BAB5B27AC8D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordsProcessor.ConsoleApp", "WordsProcessor.ConsoleApp\WordsProcessor.ConsoleApp.csproj", "{A848237E-4EEA-43F5-9B2E-7EFD1DBCE5A7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{1A6B1A87-6A82-4414-98EF-45D6BB0F4F26}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A6B1A87-6A82-4414-98EF-45D6BB0F4F26}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A6B1A87-6A82-4414-98EF-45D6BB0F4F26}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7329486B-9CA0-408C-9D46-4BAB5B27AC8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7329486B-9CA0-408C-9D46-4BAB5B27AC8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7329486B-9CA0-408C-9D46-4BAB5B27AC8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7329486B-9CA0-408C-9D46-4BAB5B27AC8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A848237E-4EEA-43F5-9B2E-7EFD1DBCE5A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A848237E-4EEA-43F5-9B2E-7EFD1DBCE5A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A848237E-4EEA-43F5-9B2E-7EFD1DBCE5A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A848237E-4EEA-43F5-9B2E-7EFD1DBCE5A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
